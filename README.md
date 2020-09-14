@@ -2,9 +2,12 @@
 
 ## Instructions
 
-In the initial commit to this project, you have been provided with data for the AFI Top 100 movies. Your task is to implement an Express driven REST API that allows a user to retrieve this data. Your API should support three requests types 1) A request for all data, 2) A request for all movies by a director, 3) A request for a movie by title. Note that you should support partial matches as shown below.
+In the initial commit to this project, you have been provided with data for the AFI Top 100 movies. Your task is to implement an Express-driven REST API that allows a user to retrieve this data. Your API should support three requests types:
+`1) A request for all data,` 
+`2) A request for all movies by a director,`
+`3) A request for a movie by title. Note that you should support partial matches as shown below.` 
 
-## Requests and Expected Respones
+## Requests and Expected Responses
 
 ### Get All
 
